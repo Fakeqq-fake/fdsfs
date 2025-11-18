@@ -204,5 +204,6 @@ void task15() {
     
     bool duplicate = false;
     for (int i = 0; i < N; ++i) {
-        for (int j = i + 1
+        for (int j = i + 1);
     }
+}
